@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/molehole/precache-manifest.7e96069fbeebfe08684d1d13902e9179.js"
+  "/molehole/precache-manifest.3b6c63ee51c4058b56751b2add6c2e9d.js"
 );
 
 workbox.clientsClaim();
